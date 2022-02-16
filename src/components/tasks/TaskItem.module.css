@@ -1,0 +1,18 @@
+.item {
+    color: rgb(82, 25, 25);
+    font-size: 27px;
+    background-color: rgb(195, 151, 151);
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.x {
+    cursor: pointer;
+    background-color:red;
+    border-radius: 100%;
+    width: 30px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+
+}
